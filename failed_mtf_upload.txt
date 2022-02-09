@@ -1,0 +1,16 @@
+t5-efficient-xxl-nl4
+t5-efficient-xl-nl28
+t5-efficient-large-nh8-nl16
+t5-efficient-large-nh8-nl32
+t5-efficient-large-nl10
+t5-efficient-mini-nl12
+t5-efficient-mini-nl24
+t5-efficient-mini-nl6
+t5-efficient-mini-nl8
+t5-efficient-mini
+t5-efficient-small-nl20
+t5-efficient-small-nl22
+t5-efficient-small
+t5-efficient-tiny-nl16
+t5-efficient-tiny-nl24
+t5-efficient-tiny-nl32

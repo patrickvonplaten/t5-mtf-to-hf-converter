@@ -1,0 +1,7 @@
+bi_v1_lg_kv256_law_03-13-20-34 t5-efficient-large-kv256
+bi_v1_11B_law_03-01-20-08 t5-efficient-xxl
+bi_v1_3B_law_02-14-20-23 t5-efficient-xl
+bi_v1_3B_shared_law_03-18-10-43 t5-efficient-xl-sh
+bi_v1_3B_l12_law_03-20-22-27 t5-efficient-xl-nl12
+bi_v1_3B_l16_law_04-04-08-07 t5-efficient-xl-nl16
+bi_v1_lg_d2k_law_03-26-22-22 t5-efficient-large-dm2000
